@@ -52,6 +52,7 @@
     },
     "requirements": {
         "foam_needed": "Efterfrågan på skum (l)",
+        "min_pump_speed": "Min. pumpkapacitet",
         "water_needed": "Liter av vatten"
     },
     "tip": {
