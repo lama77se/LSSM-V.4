@@ -116,11 +116,11 @@
     },
     "@typescript-eslint/eslint-plugin": {
         "icon": "https://typescript-eslint.io/img/typescript.svg",
-        "version": "6.7.5"
+        "version": "6.8.0"
     },
     "@typescript-eslint/parser": {
         "icon": "https://typescript-eslint.io/img/typescript.svg",
-        "version": "6.7.5"
+        "version": "6.8.0"
     },
     "@vuepress/client": {
         "icon": "https://v2.vuepress.vuejs.org/images/hero.png",
@@ -292,7 +292,7 @@
     "pinia": {
         "icon": "https://pinia.vuejs.org/logo.svg",
         "url": "https://github.com/vuejs/pinia#readme",
-        "version": "2.1.6"
+        "version": "2.1.7"
     },
     "prettier": {
         "icon": "https://prettier.io/icon.png",
@@ -331,12 +331,12 @@
     "terser": {
         "icon": "https://terser.org/img/terser-square-logo.png",
         "url": "https://terser.org",
-        "version": "5.21.0"
+        "version": "5.22.0"
     },
     "ts-loader": {
         "icon": "https://webpack.js.org/assets/icon-square-big.svg",
         "url": "https://github.com/TypeStrong/ts-loader",
-        "version": "9.4.4"
+        "version": "9.5.0"
     },
     "ts-node": {
         "icon": "https://typestrong.org/ts-node/img/logo-icon.svg",
@@ -432,6 +432,6 @@
     "webpack": {
         "icon": "https://webpack.js.org/assets/icon-square-big.svg",
         "url": "https://github.com/webpack/webpack",
-        "version": "5.88.2"
+        "version": "5.89.0"
     }
 }
