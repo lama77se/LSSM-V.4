@@ -6021,20 +6021,20 @@ __metadata:
   languageName: node
   linkType: hard
 
-"eslint-plugin-regexp@npm:2.10.0":
-  version: 2.10.0
-  resolution: "eslint-plugin-regexp@npm:2.10.0"
+"eslint-plugin-regexp@npm:3.2.0":
+  version: 3.2.0
+  resolution: "eslint-plugin-regexp@npm:3.2.0"
   dependencies:
     "@eslint-community/eslint-utils": "npm:^4.2.0"
     "@eslint-community/regexpp": "npm:^4.11.0"
     comment-parser: "npm:^1.4.0"
-    jsdoc-type-pratt-parser: "npm:^4.0.0"
+    jsdoc-type-pratt-parser: "npm:^9.0.0"
     refa: "npm:^0.12.1"
     regexp-ast-analysis: "npm:^0.7.1"
     scslre: "npm:^0.3.0"
   peerDependencies:
-    eslint: ">=8.44.0"
-  checksum: 10c0/61283bf1a8e1fd5e4b867de52db5c4b53fbba509c336bb1017c5e116978e85d9c836aa01f4f03620eeaa89f0ace7961cfd71dc34dc0e5d8ddee6351e35f702fe
+    eslint: ">=9.38.0"
+  checksum: 10c0/f431c98075a7e1132b025dc0a02f7a6fc651f6091e2b00fc5bf8998ac58a6d7217e5a27f6c00da697d970082b2416657fd84c9b54bc676b955d6fd213097585a
   languageName: node
   linkType: hard
 
@@ -7766,10 +7766,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"jsdoc-type-pratt-parser@npm:^4.0.0":
-  version: 4.8.0
-  resolution: "jsdoc-type-pratt-parser@npm:4.8.0"
-  checksum: 10c0/c2b77751d35e3931db9da96720b544b215830722b748b58ee8ce51ec72092006a4a03c5a59c86a4552d0094975c8d3bcc21a7241a0e47860e127d3fba5b55f33
+"jsdoc-type-pratt-parser@npm:^9.0.0":
+  version: 9.2.0
+  resolution: "jsdoc-type-pratt-parser@npm:9.2.0"
+  dependencies:
+    "@types/estree": "npm:^1.0.9"
+  checksum: 10c0/85ec1f8a4c6d3a10ae466534fccbd2784e6e160277c979c7ddefa57f144b8924d8a208804f820195e2d22d15cf8f6c03f0e0c5cad30f1207100e74b235c1973b
   languageName: node
   linkType: hard
 
@@ -8394,7 +8396,7 @@ __metadata:
     eslint-plugin-jsdoc: "npm:64.2.1"
     eslint-plugin-markdownlint: "npm:0.9.0"
     eslint-plugin-prettier: "npm:5.5.6"
-    eslint-plugin-regexp: "npm:2.10.0"
+    eslint-plugin-regexp: "npm:3.2.0"
     eslint-plugin-tsdoc: "npm:0.5.2"
     eslint-plugin-unicorn: "npm:56.0.1"
     eslint-plugin-vue: "npm:9.32.0"
